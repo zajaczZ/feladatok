@@ -1,0 +1,54 @@
+body {
+    background-color: #7db9e8;
+
+}
+
+table {
+    background-image: linear-gradient(#ff7f50,#ffdead);
+    padding: 20px;
+   border: 1px solid black;
+   margin: 5px;
+   display: table-cell;
+   flex:1;
+   float: left;
+   text-align: center;
+   
+   
+   
+    
+    
+
+}
+th{
+    border-bottom: 2px dotted;
+    
+    
+}
+
+h1{
+    font-size:16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+h2{
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+img {
+    width: 160px;
+    border-radius: 8px;
+   
+   
+
+}
+td{
+    text-align: center;
+}
+div{
+    display:flex;
+    width: 1000px;
+  
+    
+
+}
